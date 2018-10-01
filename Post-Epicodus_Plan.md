@@ -1,26 +1,25 @@
-Spend the first part of today putting together your plan. You should devote at least an hour to this exercise. Save your plan in a Markdown file and make regular commits to Github (at least once per hour). The items on your plan should be as specific as possible. Your plan should include at least twenty items. (Even if you can't complete all of these items in the next few months, they can still become long-term goals or ultimately shift into other goals.) It's also fine if your plan includes more than twenty items. If necessary, include links or screenshots that articulate your plans.
 
-The objective of this exercise is set goals and have a solid plan to keep you motivated beyond the daily structure of Epicodus.
+``````
+Goals & Actionable Items List:
+``````
+Ultra-High Priority:
 
-Here are some examples of specific actionable items:
+1. (1) Finish Weebly portfolio site
+1. (2) Review over all of learnhowtoprogram.com course material for JavaScript, Angular, Ruby, and Ruby on Rails
+1. (3) Re do some projects for practice and overall refactoring
+1. (4) Work on and finish Ruby on Rails Portfolio site and deploy on Heroku
+1. (5) Build Keepsaker Application for Capstone and personal portfolio piece  
 
-Finish reading The Well Grounded Rubyist.
-Add token authentication and Swagger gem to Street Trees API and update README.
-Deploy portfolio project on Heroku with Amazon S3 bucket for storage.
-Send messages to at least 5 connections on LinkedIn every day while searching for jobs.
-Attend donut.js meetings every month.
-Learn how to use procs and lambdas in Ruby.
-Practice whiteboarding by solving Project Euler problems using JavaScript.
-Build a React front end that communicates with Rails Street Trees API and uses D3 for visualization.
-Here are some examples of vague items that wouldn't be good on your list:
+Medium to Low Level Priority:
 
-Build React app. (Specify what app you'd like to build with React.)
-Read JavaScript books. (Specify the books you'd like to read.)
-Practice whiteboarding. (What specific aspects of whiteboarding do you need to practice? How will you simulate the process of whiteboarding?)
-Learn more Ruby. (Identify specific things you'd like to learn. Do some research on your own if necessary.)
-Once you have completed your list, determine your top priorities. How you do this is up to you. Here are some possibilities:
+1. Apply for 3 jobs per week to start, and then 1-2 jobs a day after internship is over
+1. Co-lead and help put on the Portland JavaScript Admirer's meetings every month
+1. Learn how to build API in Ruby on Rails
+1. Learn React, React Native, and Vue after internship is done and consider building Keepsaker app in each for practice
+1. Read the Ruby on Rails, Python, and JavaScript books on my bookshelf that have been collecting dusts for years
+1. Practice whiteboarding for problems that involve arrays, classic math problems like fibonacci's sequence, and string conversions
+1. Update action plan after my internship and regularly until I find a full time job and even after for my own development
 
-Pick out your top 3 or 5 items and identify why they are priorities.
-Group your list into high, medium and low priority.
-Rate each item on a scale of 1 to 10.
-Once you have completed this, summarize your goals in a single paragraph. This is your action plan. While you may find your plan changing in the future, this will give you a solid starting point and help you stay focused in the coming weeks and months. It's recommended that you revisit and update your action plan regularly (for instance, after you finish your internship).
+`````
+Overall Goals
+`````
